@@ -1,0 +1,25 @@
+.login-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .button-container {
+    margin-top: 30px;
+  }
+  
+  .admin-btn, .intern-btn {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .admin-btn {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  
+  .intern-btn {
+    background-color: #008CBA; /* Blue */
+    color: white;
+  }
